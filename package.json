@@ -1,6 +1,6 @@
 {
   "name": "express.quick.response",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Allow use quick response functions",
   "main": "index.js",
   "author": "MNBuyskih",
