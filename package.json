@@ -1,0 +1,8 @@
+{
+  "name": "express.quick.response",
+  "version": "0.0.1",
+  "description": "Allow use quick response functions",
+  "main": "index.js",
+  "author": "MNBuyskih",
+  "license": "MIT"
+}
